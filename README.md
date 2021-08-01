@@ -18,4 +18,12 @@ Portal web para que todo publico interesado en encontrar una educación superior
 ![CTO A 3 AÑOS SERVICIO INDIVIDUAL](https://user-images.githubusercontent.com/86988320/127774769-af86d32e-0d15-47c4-97c7-4c65cd22af9b.png)
 ![CTO TOTAL FINAL 1](https://user-images.githubusercontent.com/86988320/127774774-fbad5969-5a33-4ee0-b064-e9875dbe6636.png)
 
-### Qué te pareció el evento
+### Evento Innovaction Virtual 
+Este evento hizo un gran cambio, ya que apartir de la prpuesta que tenemos pudimos conjuntar diversas herramientas de los servicios en la nube que más haya de ser aplicaciones, facilitaron y fueron herramientas para la configuración de nuestro trabajo. 
+Este proyecto tambien nos ayudo a conocer a más personas, tambien logramos desembolvernos y salir de nuestra zona de confort. Y aunque no ganemos, la mayor recompensa que nos llevaremos sera la experencia y la oportunidad de conocer más información y conocimiento. 
+### INTEGRANTES DEL EQUIPO:
+cv6401@innovaccion.mx IZAY ALARCON 
+cv4324@innovaccion.mx LUIS ARMANDO ROJAS 
+cv3230@innovaccion.mx ADOLFO CELSO PARRAGUIRRE AGUILAR 
+cv2703@innovaccion.mx EMMANUEL PEREZ 
+cv5897@innovaccion.mx SALOMON PARRAGUIRRE AGUILAR 
