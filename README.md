@@ -1,6 +1,8 @@
 # Find your University México (FyUM) 
 Portal web para que todo publico interesado en encontrar una educación superior por medio de un recorrido virtual.
 
+http://fyum-universidades.azurewebsites.net/ 
+
 ### (FyUM Tiktok) [https://www.tiktok.com/@linfocitocd4ayudante/video/6991474029639027974?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6991473398292317702] 
 ### Diagrama de servicios de azure
 ![Find your University México (FyUM)](https://user-images.githubusercontent.com/86988320/127772885-4f6a8771-ea14-4b38-9181-653ecde30488.png)
@@ -22,8 +24,12 @@ Portal web para que todo publico interesado en encontrar una educación superior
 Este evento hizo un gran cambio, ya que apartir de la prpuesta que tenemos pudimos conjuntar diversas herramientas de los servicios en la nube que más haya de ser aplicaciones, facilitaron y fueron herramientas para la configuración de nuestro trabajo. 
 Este proyecto tambien nos ayudo a conocer a más personas, tambien logramos desembolvernos y salir de nuestra zona de confort. Y aunque no ganemos, la mayor recompensa que nos llevaremos sera la experencia y la oportunidad de conocer más información y conocimiento. 
 ### INTEGRANTES DEL EQUIPO:
-cv6401@innovaccion.mx IZAY ALARCON 
-cv4324@innovaccion.mx LUIS ARMANDO ROJAS 
-cv3230@innovaccion.mx ADOLFO CELSO PARRAGUIRRE AGUILAR 
-cv2703@innovaccion.mx EMMANUEL PEREZ 
-cv5897@innovaccion.mx SALOMON PARRAGUIRRE AGUILAR 
+### cv6401@innovaccion.mx IZAY ALARCON 
+
+### cv4324@innovaccion.mx LUIS ARMANDO ROJAS 
+
+### cv3230@innovaccion.mx ADOLFO CELSO PARRAGUIRRE AGUILAR 
+
+### cv2703@innovaccion.mx EMMANUEL PEREZ 
+
+### cv5897@innovaccion.mx SALOMON PARRAGUIRRE AGUILAR 
