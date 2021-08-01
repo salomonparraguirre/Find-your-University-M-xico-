@@ -1,10 +1,9 @@
 # Find your University México (FyUM) 
 Portal web para que todo publico interesado en encontrar una educación superior por medio de un recorrido virtual.
-### Link al Tiktok
+
+### (FyUM Tiktok) [https://www.tiktok.com/@linfocitocd4ayudante/video/6991474029639027974?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6991473398292317702] 
 ### Diagrama de servicios de azure
 ![Find your University México (FyUM)](https://user-images.githubusercontent.com/86988320/127772885-4f6a8771-ea14-4b38-9181-653ecde30488.png)
-### Desarrollo de la paina web
-
 
 ### SLA Compuesto
 ![WhatsApp Image 2021-08-01 at 9 28 41 AM (7)](https://user-images.githubusercontent.com/86988320/127774591-3247c2ed-be6e-469f-9dc0-9319ea54e53d.jpeg)
